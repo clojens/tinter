@@ -1,5 +1,10 @@
 # Tinter
 
+This is a fork I've made off someones personal project. Orginals left in tact
+in this document mostly.
+
+............................
+
 Tinter is a simple Clojure library for color conversions and manipulations.
 
 Colors are specified in the following ways:
